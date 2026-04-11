@@ -2,8 +2,10 @@
 
 # California Housing Prices — Project Progress
 
-## Research Question
-In this project, we investigate whether location influences housing prices.
+## Research Question #1
+In this project, we investigate whether location and income influences housing prices. 
+
+In this project, we investigate whether we can predict median house price for a block using features such as location, income, and size of the house. 
 
 ## Dataset
 Source: https://www.kaggle.com/datasets/karimehab37/california-housing-prices  
